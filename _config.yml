@@ -13,17 +13,17 @@ style: styles-4
 
 
 #Profile information
-name: Alan Doe
+name: Paul Jaffre
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: jaffrepaul@gmail.com
+phone: 732 306 0086
 website: blog.webjeda.com #do not add http://
 linkedin: pauljaffre
 github: sharu725
-twitter: '@webjeda'
+twitter: '@pauljaffre'
 
 
 # Tracker
