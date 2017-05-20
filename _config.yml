@@ -15,7 +15,7 @@ style: styles-4
 #Profile information
 name: Paul Jaffre
 tagline: Full Stack Developer
-pic: paul_profile_300.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: paul_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: jaffrepaul@gmail.com
