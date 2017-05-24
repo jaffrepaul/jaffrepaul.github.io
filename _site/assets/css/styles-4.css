@@ -47,6 +47,10 @@ a:focus {
 p {
   line-height: 1.5;
 }
+span {
+  font-weight: 500
+}
+
 .wrapper {
   background: #A15277;
   max-width: 960px;
