@@ -1,7 +1,7 @@
 
 title: Paul Jaffré
 url: 'http://webjeda.com'
-baseurl: '' #change it according to your repository name
+baseurl: '' #jaffrepaul.github.io #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -14,8 +14,9 @@ style: styles-4
 
 #Profile information
 name: Paul Jaffre
-tagline: Product Manager <br/> Full Stack Developer
+tagline: Full Stack Developer
 pic: paul_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 
 #sidebar links
 email: jaffrepaul@gmail.com
@@ -27,5 +28,5 @@ twitter: '@pauljaffre'
 
 
 # Tracker
-analytics: UA-83979019-1
+# analytics: UA-83979019-1
 #Update all the sections by editing the files inside _includes folder.
