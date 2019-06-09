@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Roboto', sans-serif;  
+    font-family: 'Roboto', sans-serif;
     color: @text-color-secondary;
     background: @smoky-white;
     font-size: 14px;
@@ -9,7 +9,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4, h5, h6  {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 700;
 }
 
@@ -30,11 +35,11 @@ p {
 }
 
 .wrapper {
-    background:@theme-color;
+    background: @theme-color;
     max-width: 960px;
     margin: 0 auto;
     position: relative;
-    .box-shadow(0px 2px 4px rgba(0,0,0,0.1));
+    .box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
 .sidebar-wrapper {
@@ -76,6 +81,10 @@ p {
             margin-right: 5px;
             font-size: 18px;
             vertical-align: middle;
+        }
+        .fa fa-linkedin {
+            padding-top: 32px;
+            vertical-align: sub;
         }
         li {
             margin-bottom: 15px;
@@ -128,7 +137,7 @@ p {
             color: rgba(256, 256, 256, 0.6);
         }
     }
-    
+
     .languages-list {
         margin-bottom: 0;
         li {
@@ -138,7 +147,7 @@ p {
             }
         }
     }
-    
+
     .interests-list {
         margin-bottom: 0;
         li {
@@ -176,12 +185,11 @@ p {
             position: relative;
             top: -2px;
         }
-
     }
     .section {
         margin-bottom: 60px;
     }
-    
+
     .experiences-section {
         .item {
             margin-bottom: 30px;
@@ -209,7 +217,7 @@ p {
         margin-bottom: 10px;
         color: @text-grey;
     }
-    
+
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -224,9 +232,7 @@ p {
             margin-bottom: 15px;
         }
     }
-    
 }
-
 
 .skillset {
     .item {
@@ -248,20 +254,16 @@ p {
     }
 }
 
-
-
-
 .footer {
     padding: 30px;
     padding-top: 60px;
     .copyright {
         line-height: 1.6;
         color: @text-color-secondary;
-        font-size: 13px;       
-    }  
-    
+        font-size: 13px;
+    }
+
     .fa-heart {
         color: @heart;
     }
-    
 }
